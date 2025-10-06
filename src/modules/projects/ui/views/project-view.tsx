@@ -20,7 +20,7 @@ interface ProjectViewProps {
 
 export const ProjectView = ({projectId}: ProjectViewProps) => {
     const {has} = useAuth();
-    const hasProAccess = has?.({plan: "pro"});
+    const hasProAccess = has?.({plan: "pro"})??false;
    const [activeFragment, setActiveFragment] = useState<Fragment | null>(null);
    const [tabState, setTabState] = useState<"preview"|"code">("preview");
     return(

@@ -11,7 +11,7 @@ interface Props {
 
 export const Usage = ({points, msBeforeNext}: Props) => {
     const {has} = useAuth();
-    const hasProAccess = has?.({plan: "pro"});
+    const hasProAccess = has?.({plan: "pro"})??false;
     return(
         <div className="rounded-t-xl bg-background border border-b-0 p-2.5">
             <div className="flex items-center gap-x-2">
