@@ -9,8 +9,6 @@
 
 This repository contains the code built while following the **FunCode**  "Build and Deploy a SaaS AI Website Builder". The project demonstrates how to connect an LLM (e.g. Chat GPT Claude), background job orchestration, and a modern Next.js frontend to generate and deploy small full‑stack apps from natural-language prompts.
 
-> The README has been tailored to reflect the features and stack used in the  — update any commands, env names, or scripts to match your actual repository files.
-
 ## Features
 
 * Prompt → generated full-stack app scaffold (frontend + backend)
@@ -137,20 +135,5 @@ RUN npm ci --only=production
 COPY . .
 CMD ["node", "dist/index.js"]
 ```
-
-## License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-Shubham Chaudhary — update this with your email or preferred contact.
-
-Project Link: [https://github.com/Shubham-kr-chaudhary/funcode](https://github.com/Shubham-kr-chaudhary/funcode)
-
-## Acknowledgements
-
-* FunCode — the  used to build this project
-* Chat GPT, Inngest, Prisma, Clerk, and Vercel for the integrations shown in the 
 
 ---
