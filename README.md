@@ -7,7 +7,7 @@
 
 ## About
 
-This repository contains the code built while following the **FunCode**  "Build and Deploy a SaaS AI Website Builder". The project demonstrates how to connect an LLM (e.g. Anthropic Claude), background job orchestration, and a modern Next.js frontend to generate and deploy small full‑stack apps from natural-language prompts.
+This repository contains the code built while following the **FunCode**  "Build and Deploy a SaaS AI Website Builder". The project demonstrates how to connect an LLM (e.g. Chat GPT Claude), background job orchestration, and a modern Next.js frontend to generate and deploy small full‑stack apps from natural-language prompts.
 
 > The README has been tailored to reflect the features and stack used in the  — update any commands, env names, or scripts to match your actual repository files.
 
@@ -23,7 +23,7 @@ This repository contains the code built while following the **FunCode**  "Build 
 
 * Next.js (app-router)
 * TypeScript
-* Anthropic (Claude) as the LLM
+* Chat GPT as the LLM
 * Inngest for background job orchestration
 * Prisma (database ORM)
 * Clerk for authentication (optional)
@@ -38,7 +38,7 @@ This repository contains the code built while following the **FunCode**  "Build 
 * Node.js (>= 18)
 * npm / pnpm / yarn
 * A database (Postgres / Neon / Supabase) and a connection URL
-* Anthropic API key (or another LLM provider key)
+* Chat GPT API key (or another LLM provider key)
 * Clerk keys if you want authentication features
 
 ### Install
@@ -151,6 +151,6 @@ Project Link: [https://github.com/Shubham-kr-chaudhary/funcode](https://github.c
 ## Acknowledgements
 
 * FunCode — the  used to build this project
-* Anthropic, Inngest, Prisma, Clerk, and Vercel for the integrations shown in the 
+* Chat GPT, Inngest, Prisma, Clerk, and Vercel for the integrations shown in the 
 
 ---
