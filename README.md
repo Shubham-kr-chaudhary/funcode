@@ -1,15 +1,15 @@
 # funcode
 
-> An AI-powered website builder based on the FunCode tutorial — scaffold, generate and deploy full-stack apps from a short prompt.
+> An AI-powered website builder based on the FunCode  — scaffold, generate and deploy full-stack apps from a short prompt.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Build status](https://img.shields.io/badge/build-passing-brightgreen.svg)]
 
 ## About
 
-This repository contains the code built while following the **FunCode** tutorial "Build and Deploy a SaaS AI Website Builder". The project demonstrates how to connect an LLM (e.g. Anthropic Claude), background job orchestration, and a modern Next.js frontend to generate and deploy small full‑stack apps from natural-language prompts.
+This repository contains the code built while following the **FunCode**  "Build and Deploy a SaaS AI Website Builder". The project demonstrates how to connect an LLM (e.g. Anthropic Claude), background job orchestration, and a modern Next.js frontend to generate and deploy small full‑stack apps from natural-language prompts.
 
-> The README has been tailored to reflect the features and stack used in the tutorial — update any commands, env names, or scripts to match your actual repository files.
+> The README has been tailored to reflect the features and stack used in the  — update any commands, env names, or scripts to match your actual repository files.
 
 ## Features
 
@@ -150,7 +150,7 @@ Project Link: [https://github.com/Shubham-kr-chaudhary/funcode](https://github.c
 
 ## Acknowledgements
 
-* FunCode — the tutorial used to build this project
-* Anthropic, Inngest, Prisma, Clerk, and Vercel for the integrations shown in the tutorial
+* FunCode — the  used to build this project
+* Anthropic, Inngest, Prisma, Clerk, and Vercel for the integrations shown in the 
 
 ---
